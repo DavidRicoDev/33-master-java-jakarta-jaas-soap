@@ -1,0 +1,6 @@
+es\davidrico\jakarta\jaas\soap\repositorios\CursoRepository.class
+es\davidrico\jakarta\jaas\soap\servicios\CursoServicioWs.class
+es\davidrico\jakarta\jaas\soap\servicios\CursoServicioWsImpl.class
+es\davidrico\jakarta\jaas\soap\ProducerEntityManager.class
+es\davidrico\jakarta\jaas\soap\modelos\Curso.class
+es\davidrico\jakarta\jaas\soap\repositorios\CursoRepositoryImpl.class
